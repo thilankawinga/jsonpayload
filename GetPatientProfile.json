@@ -11,7 +11,6 @@
 "ErrorEndUserMessage":null,
 "ErrorMessage":null,
 "ErrorType":0,
-"FoodCategory":0,
 "IOSLink":null,
 "IsAuthenticated":true,
 "MealOrderStatus":0,
@@ -35,6 +34,13 @@
 "List_MyDischargePatient":null,
 "List_MyDischargeReferralPatient":null,
 "List_MyDischargeReferredPatient":null,
+"List_MyOutPatient":null,
+"List_MyReferralPatient":null,
+"List_MyReferredPatient":null,
+"List_MyTomorrowPatient":null,
+"List_PrescriptionReportByPatientID":null,
+"List_PrescriptionReportForInPatient":null,
+"TotalUnUsedCount":0,
 "List_PatientVitalSign":[
 {
 			"TransNo":6157174,
@@ -107,13 +113,13 @@
 },
 {
 	"AlertType" : 1,
-	"AlertStatus" : 3,  
-	"Description" : "Recovering from depression",
+	"AlertStatus" : 1,  
+	"Description" : "Recovering from depression"
 },
 {
 	"AlertType" : 1,
-	"AlertStatus" : 2,  
-	"Description" : "Possible to have cardiovascular diseases",
+	"AlertStatus" : 1,  
+	"Description" : "Possible to have cardiovascular diseases"
 }
 ],
 "List_PatientProblems":[
@@ -153,12 +159,5 @@
 	"Prescriber" : "Dr.MUSTAFA SEYAM",
 	"PrescriberId" : 10003
 }
-],
-"List_MyOutPatient":null,
-"List_MyReferralPatient":null,
-"List_MyReferredPatient":null,
-"List_MyTomorrowPatient":null,
-"List_PrescriptionReportByPatientID":null,
-"List_PrescriptionReportForInPatient":null,
-"TotalUnUsedCount":0
+]
 }
