@@ -36,7 +36,7 @@
 		"time":"2 hours ago",
 		"published":"2017-03-15 08:15 AM",
 		"category":1,
-		"status":1
+		"status":2
 		},
 		{
 		"title":"AFI Cancels Birth of a Nation Screening, Nate Parker Q&A",
@@ -45,7 +45,7 @@
 		"time":"2 hours ago",
 		"published":"2017-03-15 08:15 AM",
 		"category":2,
-		"status":1
+		"status":3
 		},
 		{
 		"title":"Ronald Reagan Biopic Draws Soul Surfer Director Sean McNamara",
@@ -72,7 +72,7 @@
 		"time":"40 minutes ago",
 		"published":"2017-03-15 07:15 AM",
 		"category":3,
-		"status":1
+		"status":4
 		},
 		{
 		"title":"Mady and Cara Gosselin Open Up About Their Estranged Relationship with Dad Jon: 'He Doesn't Even Know Us'",
@@ -81,7 +81,7 @@
 		"time":"12 hours ago",
 		"published":"2017-03-15 07:15 AM",
 		"category":4,
-		"status":1
+		"status":3
 		},
 		{
 		"title":"Cmt Announces Nashville Season 5 Premiere Date",
@@ -90,7 +90,7 @@
 		"time":"13 hours ago",
 		"published":"2017-03-15 03:15 AM",
 		"category":1,
-		"status":1
+		"status":3
 		},
 		{
 		"title":"Horror Movie ‘Don’t Breathe’ to Scare Off ‘Suicide Squad’ for No 1 Spot",
@@ -117,7 +117,7 @@
 		"time":"6 hours ago",
 		"published":"2017-03-15 07:15 AM",
 		"category":2,
-		"status":1
+		"status":2
 		},
 		{
 		"title":"Lifetime Developing Robert Durst TV Movie",
@@ -135,7 +135,7 @@
 		"time":"23 hours ago",
 		"published":"2017-03-15 07:15 AM",
 		"category":4,
-		"status":1
+		"status":3
 		},
 		{
 		"title":"Ming-Na Wen goes from S.H.I.E.L.D. agent to time travel agent for Disney XD",
@@ -144,7 +144,7 @@
 		"time":"23 hours ago",
 		"published":"2017-03-15 07:15 AM",
 		"category":3,
-		"status":1
+		"status":4
 		},
 		{
 		"title":"Scott Eastwood’s Deceased Girlfriend Identified as Aspiring Model Jewel Brangman",
@@ -153,7 +153,7 @@
 		"time":"10 hours ago",
 		"published":"2017-03-15 07:15 AM",
 		"category":4,
-		"status":1
+		"status":2
 		}
 	],
 "ResultType":0
