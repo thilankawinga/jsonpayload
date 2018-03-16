@@ -67,6 +67,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -99,6 +102,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -131,6 +137,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -163,6 +172,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -195,6 +207,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -227,6 +242,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -259,6 +277,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -291,6 +312,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -323,6 +347,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -355,6 +382,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -387,6 +417,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -419,6 +452,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -451,6 +487,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -483,6 +522,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -515,6 +557,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -547,6 +592,9 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -579,6 +627,9 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
+"chronic":"",
+"allergies":"",	
+"infections":"",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 }
 ],

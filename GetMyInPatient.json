@@ -70,6 +70,9 @@
 "GenderDescription":"Male",
 "NursingStationName":"None",
 "ChiefComplaint":"Muscles of mastication",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -106,6 +109,9 @@
 "GenderDescription":"Male",
 "NursingStationName":"First floor short stay ",
 "ChiefComplaint":"Muscles of mastication",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -142,6 +148,9 @@
 "GenderDescription":"Male",
 "NursingStationName":"Second floor short stay",
 "ChiefComplaint":"Muscles of mastication",
+"chronic":"Diabetes,Asthma",
+"allergies":"",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -178,6 +187,9 @@
 "GenderDescription":"Male",
 "NursingStationName":"ICU",
 "ChiefComplaint":"Muscles of mastication",
+"chronic":"Diabetes,Asthma",
+"allergies":"Penicilin, Bee Stings",	
+"infections":"bacterial",
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 }
 ],
