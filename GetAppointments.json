@@ -1,0 +1,106 @@
+{
+"Date":null,
+"LanguageID":0,
+"ServiceName":0,
+"Time":null,
+"AndroidLink":null,
+"AuthenticationTokenID":null,
+"Dataw":false,
+"DietType":0,
+"ErrorCode":null,
+"ErrorEndUserMessage":null,
+"ErrorMessage":null,
+"ErrorType":0,
+"IOSLink":null,
+"IsAuthenticated":true,
+"MealOrderStatus":0,
+"MealType":0,
+"MessageStatus":1,
+"NumberOfResultRecords":0,
+"SuccessMsg":null,
+"List_Appointment":
+	[
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Asif Masood",
+			"AppDate":"16-03-2018",
+			"AppTime":"14:45",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Day off",
+			"AppDate":"16-03-2018",
+			"AppTime":"14:45",
+			"AppCategory":2,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Sadiq Mohammad",
+			"AppDate":"16-03-2018",
+			"AppTime":"15:00",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Javed Miandad",
+			"AppDate":"16-03-2018",
+			"AppTime":"14:45",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+				{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Out from clinic",
+			"AppDate":"16-03-2018",
+			"AppTime":"14:45",
+			"AppCategory":3,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Mudassar Nazar",
+			"AppDate":"17-03-2018",
+			"AppTime":"14:45",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Intikhab Alam",
+			"AppDate":"17-03-2018",
+			"AppTime":"15:00",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Nasim ul Ghani",
+			"AppDate":"17-03-2018",
+			"AppTime":"15:15",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		},
+		{
+			"AppRefId":"1000001",
+			"AppRefTitle":"Pervez Mir",
+			"AppDate":"17-03-2018",
+			"AppTime":"15:15",
+			"AppCategory":1,
+			"AppHospital":"Olaya Medical Complex",
+			"AppClinic":"Diabetic" 
+		}
+	],
+"ResultType":0
+}
