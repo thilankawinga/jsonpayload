@@ -126,19 +126,19 @@
 {
 	"LabReportType" : 1,
 	"LabReportStatus" : 1,  
-	"ReportTile" : "Lipid Profile mg/dl"
+	"ReportTile" : "Lipid Profile mg/dl",
 	"ReportId" : 213133
 },
 {
 	"LabReportType" : 1,
 	"LabReportStatus" : 2,  
-	"ReportTile" : "Full blood count"
+	"ReportTile" : "Full blood count",
 	"ReportId" : 213134
 },
 {
 	"LabReportType" : 1,
 	"LabReportStatus" : 3,  
-	"ReportTile" : "Blood Glucose"
+	"ReportTile" : "Blood Glucose",
 	"ReportId" : 213135
 }
 ],
