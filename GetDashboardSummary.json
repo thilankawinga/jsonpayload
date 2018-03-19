@@ -1,0 +1,207 @@
+{
+"Date":null,
+"LanguageID":0,
+"ServiceName":0,
+"Time":null,
+"AndroidLink":null,
+"AuthenticationTokenID":null,
+"Dataw":false,
+"DietType":0,
+"ErrorCode":null,
+"ErrorEndUserMessage":null,
+"ErrorMessage":null,
+"ErrorType":0,
+"IOSLink":null,
+"IsAuthenticated":true,
+"MealOrderStatus":0,
+"MealType":0,
+"MessageStatus":1,
+"NumberOfResultRecords":0,
+"SuccessMsg":null,
+"List_NewsAlerts":
+	[
+		{
+			"dcTitle" : "Critical Patients",
+			"dcCount" : 15,
+			"dcTitleA" : "To be seen today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Yesterday Remain count",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Critical Lab Reports",
+			"dcCount" : 15,
+			"dcTitleA" : "To be seen today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Yesterday Remain count",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Schedule OR (Operator Room)",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending schedules today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Missing schedule yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Emergency Room",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending schedule today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Missing schedule yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Walking Appointments",
+			"dcCount" : 15,
+			"dcTitleA" : "To be seen today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Booked for tomorrow",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Booked Appointments",
+			"dcCount" : 15,
+			"dcTitleA" : "To be seen today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Booked for tomorrow",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "New Admission",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending for today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Request for tomorrow",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Admitted Patient",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending for today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Critical patients",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Pending Referrals",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending response",
+			"dcCountA" : 5,
+			"dcTitleA" : "Yesterday referrals",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Referral Response",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending for today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending for yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Patients Lab Reports",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending for today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending for yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Pharmacy Intervention",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending for today",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending for yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Patient Questions",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending to answer",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending to review",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Patient Calls",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending to follow-up",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending from yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Special Care",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending to follow-up",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending from yesterday",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "View feedback from patients",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending to answer",
+			"dcCountA" : 5,
+			"dcTitleA" : "Pending to verify",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Medications due",
+			"dcCount" : 15,
+			"dcTitleA" : "Pending to followup",
+			"dcCountA" : 5,
+			"dcTitleA" : "Medications overdue",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Ratings for the Physicians",
+			"dcCount" : 15,
+			"dcTitleA" : "Average  ratings current month",
+			"dcCountA" : 5,
+			"dcTitleA" : "Average ratings last month",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Nurse Contacts",
+			"dcCount" : 15,
+			"dcTitleA" : "Received calls",
+			"dcCountA" : 5,
+			"dcTitleA" : "Today's contacts",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		},
+		{
+			"dcTitle" : "Revenue",
+			"dcCount" : 15,
+			"dcTitleA" : "Today earnings",
+			"dcCountA" : 5,
+			"dcTitleA" : "Commissions",
+			"dcCountA" : 3,
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
+		}
+	],
+"ResultType":0
+}
+	
+
