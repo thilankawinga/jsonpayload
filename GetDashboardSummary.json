@@ -25,8 +25,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Yesterday Remain count",
-			"dcCountA" : 3,
+			"dcTitleB" : "Yesterday Remain count",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -34,8 +34,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Yesterday Remain count",
-			"dcCountA" : 3,
+			"dcTitleB" : "Yesterday Remain count",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -43,8 +43,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending schedules today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Missing schedule yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Missing schedule yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -52,8 +52,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending schedule today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Missing schedule yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Missing schedule yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -61,8 +61,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Booked for tomorrow",
-			"dcCountA" : 3,
+			"dcTitleB" : "Booked for tomorrow",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -70,8 +70,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Booked for tomorrow",
-			"dcCountA" : 3,
+			"dcTitleB" : "Booked for tomorrow",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -79,8 +79,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Request for tomorrow",
-			"dcCountA" : 3,
+			"dcTitleB" : "Request for tomorrow",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -88,8 +88,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Critical patients",
-			"dcCountA" : 3,
+			"dcTitleB" : "Critical patients",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -97,8 +97,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending response",
 			"dcCountA" : 5,
-			"dcTitleA" : "Yesterday referrals",
-			"dcCountA" : 3,
+			"dcTitleB" : "Yesterday referrals",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -106,8 +106,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending for yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending for yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -115,8 +115,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending for yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending for yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -124,8 +124,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending for yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending for yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -133,8 +133,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to answer",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending to review",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending to review",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -142,8 +142,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to follow-up",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending from yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending from yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -151,8 +151,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to follow-up",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending from yesterday",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending from yesterday",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -160,8 +160,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to answer",
 			"dcCountA" : 5,
-			"dcTitleA" : "Pending to verify",
-			"dcCountA" : 3,
+			"dcTitleB" : "Pending to verify",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -169,8 +169,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to followup",
 			"dcCountA" : 5,
-			"dcTitleA" : "Medications overdue",
-			"dcCountA" : 3,
+			"dcTitleB" : "Medications overdue",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -178,8 +178,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Average  ratings current month",
 			"dcCountA" : 5,
-			"dcTitleA" : "Average ratings last month",
-			"dcCountA" : 3,
+			"dcTitleB" : "Average ratings last month",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -187,8 +187,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Received calls",
 			"dcCountA" : 5,
-			"dcTitleA" : "Today's contacts",
-			"dcCountA" : 3,
+			"dcTitleB" : "Today's contacts",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
@@ -196,8 +196,8 @@
 			"dcCount" : 15,
 			"dcTitleA" : "Today earnings",
 			"dcCountA" : 5,
-			"dcTitleA" : "Commissions",
-			"dcCountA" : 3,
+			"dcTitleB" : "Commissions",
+			"dcCountB" : 3,
 			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		}
 	],
