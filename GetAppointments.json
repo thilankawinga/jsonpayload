@@ -27,7 +27,8 @@
 			"AppTime":"14:45",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 		},
 		{
 			"AppRefId":"1000001",
@@ -36,7 +37,8 @@
 			"AppTime":"14:45",
 			"AppCategory":2,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":""
 		},
 		{
 			"AppRefId":"1000001",
@@ -45,7 +47,8 @@
 			"AppTime":"15:00",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
 			"AppRefId":"1000001",
@@ -54,7 +57,8 @@
 			"AppTime":"14:45",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 		},
 				{
 			"AppRefId":"1000001",
@@ -63,7 +67,8 @@
 			"AppTime":"14:45",
 			"AppCategory":3,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":""
 		},
 		{
 			"AppRefId":"1000001",
@@ -72,7 +77,8 @@
 			"AppTime":"14:45",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
 			"AppRefId":"1000001",
@@ -81,7 +87,8 @@
 			"AppTime":"15:00",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 		},
 		{
 			"AppRefId":"1000001",
@@ -90,7 +97,8 @@
 			"AppTime":"15:15",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		},
 		{
 			"AppRefId":"1000001",
@@ -99,7 +107,8 @@
 			"AppTime":"15:15",
 			"AppCategory":1,
 			"AppHospital":"Olaya Medical Complex",
-			"AppClinic":"Diabetic" 
+			"AppClinic":"Diabetic",
+			"ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 		}
 	],
 "ResultType":0
