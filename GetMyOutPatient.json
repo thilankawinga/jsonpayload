@@ -67,9 +67,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"Diabetes,Asthma",
-"allergies":"Penicilin, Bee Stings",	
-"infections":"bacterial",
+"Chronic":"Diabetes,Asthma",
+"Allergies":"Penicilin, Bee Stings",	
+"Infections":"bacterial",
+"CriticalLabReport": 1,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -102,9 +104,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"Diabetes,Asthma",
-"allergies":"Penicilin, Bee Stings",	
-"infections":"bacterial",
+"Chronic":"Diabetes,Asthma",
+"Allergies":"Penicilin, Bee Stings",	
+"Infections":"bacterial",
+"CriticalLabReport": 0,
+"MedicationDue": 1,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -137,9 +141,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"Diabetes,Asthma",
-"allergies":"Penicilin, Bee Stings",	
-"infections":"bacterial",
+"Chronic":"Diabetes,Asthma",
+"Allergies":"Penicilin, Bee Stings",	
+"Infections":"bacterial",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -172,9 +178,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 1,
+"MedicationDue": 1,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -207,9 +215,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"Diabetes,Asthma",
-"allergies":"Penicilin, Bee Stings",	
-"infections":"bacterial",
+"Chronic":"Diabetes,Asthma",
+"Allergies":"Penicilin, Bee Stings",	
+"Infections":"bacterial",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -242,9 +252,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -277,9 +289,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -312,9 +326,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -347,9 +363,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 1,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -382,9 +400,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 1,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -417,9 +437,13 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"Diabetes,Asthma",
+"Allergies":"Penicilin, Bee Stings",	
+"Infections":"bacterial",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -452,9 +476,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -487,9 +513,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -522,9 +550,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 1,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -557,9 +587,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -592,9 +624,11 @@
 "GenderDescription":"Female",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 1,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -627,9 +661,11 @@
 "GenderDescription":"Male",
 "RoomID":"PV-14",
 "AppointmentNo":"PV-14",
-"chronic":"",
-"allergies":"",	
-"infections":"",
+"Chronic":"",
+"Allergies":"",	
+"Infections":"",
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 }
 ],
