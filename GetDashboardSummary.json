@@ -22,7 +22,8 @@
 	[
 		{
 			"dcRefId" : 1,
-			"dcCategory" : 1, 
+			"dcCategory" : 1,
+			"dcStyle" : 1, 
 			"dcTitle" : "Critical Patients",
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
@@ -33,7 +34,8 @@
 		},
 		{
 			"dcRefId" : 2,
-			"dcCategory" : 2, 
+			"dcCategory" : 2,
+			"dcStyle" : 1, 
 			"dcTitle" : "Critical Lab Reports",
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
@@ -44,7 +46,8 @@
 		},
 		{
 			"dcRefId" : 3,
-			"dcCategory" : 3, 
+			"dcCategory" : 3,
+			"dcStyle" : 1, 
 			"dcTitle" : "Schedule OR (Operator Room)",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending schedules today",
@@ -55,7 +58,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 3, 
+			"dcCategory" : 4,
+			"dcStyle" : 1, 
 			"dcTitle" : "Emergency Room",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending schedule today",
@@ -66,7 +70,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 4, 
+			"dcCategory" : 5,
+			"dcStyle" : 1, 
 			"dcTitle" : "Walking Appointments",
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
@@ -77,7 +82,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 4, 
+			"dcCategory" : 6,
+			"dcStyle" : 1, 
 			"dcTitle" : "Booked Appointments",
 			"dcCount" : 15,
 			"dcTitleA" : "To be seen today",
@@ -88,7 +94,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 4, 
+			"dcCategory" : 7,
+			"dcStyle" : 1, 
 			"dcTitle" : "New Admission",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
@@ -99,7 +106,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 1, 
+			"dcCategory" : 8,
+			"dcStyle" : 1, 
 			"dcTitle" : "Admitted Patient",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
@@ -110,7 +118,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 1, 
+			"dcCategory" : 9,
+			"dcStyle" : 1, 
 			"dcTitle" : "Pending Referrals",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending response",
@@ -121,7 +130,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 1, 
+			"dcCategory" : 10,
+			"dcStyle" : 1, 
 			"dcTitle" : "Referral Response",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
@@ -132,7 +142,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 11,
+			"dcStyle" : 1, 
 			"dcTitle" : "Patients Lab Reports",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
@@ -143,7 +154,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 12,
+			"dcStyle" : 1, 
 			"dcTitle" : "Pharmacy Intervention",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending for today",
@@ -154,7 +166,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 13,
+			"dcStyle" : 1, 
 			"dcTitle" : "Patient Questions",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to answer",
@@ -165,7 +178,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 14,
+			"dcStyle" : 1, 
 			"dcTitle" : "Patient Calls",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to follow-up",
@@ -176,7 +190,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 15,
+			"dcStyle" : 1, 
 			"dcTitle" : "Special Care",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to follow-up",
@@ -187,7 +202,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 16,
+			"dcStyle" : 1, 
 			"dcTitle" : "View feedback from patients",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to answer",
@@ -198,7 +214,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 17,
+			"dcStyle" : 1, 
 			"dcTitle" : "Medications due",
 			"dcCount" : 15,
 			"dcTitleA" : "Pending to followup",
@@ -209,7 +226,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 18,
+			"dcStyle" : 1, 
 			"dcTitle" : "Ratings for the Physicians",
 			"dcCount" : 15,
 			"dcTitleA" : "Average  ratings current month",
@@ -220,7 +238,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 19,
+			"dcStyle" : 1, 
 			"dcTitle" : "Nurse Contacts",
 			"dcCount" : 15,
 			"dcTitleA" : "Received calls",
@@ -231,7 +250,8 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 0, 
+			"dcCategory" : 20,
+			"dcStyle" : 1, 
 			"dcTitle" : "Revenue",
 			"dcCount" : 15,
 			"dcTitleA" : "Today earnings",
