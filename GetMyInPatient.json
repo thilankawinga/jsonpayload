@@ -75,6 +75,16 @@
 "Infections":"bacterial",
 "CriticalLabReport": 1,
 "MedicationDue": 1,
+"List_MyLastVitalSign":[
+	{
+	"WeightKg":66,
+	"HeightCm":170,
+	"TemperatureCelcius":38,
+	"PulseBeatPerMinute":0,
+	"BodyMassIndex":22.84,
+	"BloodPressure":"70 / 60"
+	}
+],
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -116,6 +126,16 @@
 "Infections":"bacterial",
 "CriticalLabReport": 0,
 "MedicationDue": 1,
+"List_MyLastVitalSign":[
+	{
+	"WeightKg":66,
+	"HeightCm":170,
+	"TemperatureCelcius":38,
+	"PulseBeatPerMinute":0,
+	"BodyMassIndex":22.84,
+	"BloodPressure":"70 / 60"
+	}
+],
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 },
 {
@@ -157,6 +177,16 @@
 "Infections":"bacterial",
 "CriticalLabReport": 1,
 "MedicationDue": 0,
+"List_MyLastVitalSign":[
+	{
+	"WeightKg":66,
+	"HeightCm":170,
+	"TemperatureCelcius":38,
+	"PulseBeatPerMinute":0,
+	"BodyMassIndex":22.84,
+	"BloodPressure":"70 / 60"
+	}
+],
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/maleuser.png"
 },
 {
@@ -198,6 +228,16 @@
 "Infections":"bacterial",
 "CriticalLabReport": 0,
 "MedicationDue": 0,
+"List_MyLastVitalSign":[
+	{
+	"WeightKg":66,
+	"HeightCm":170,
+	"TemperatureCelcius":38,
+	"PulseBeatPerMinute":0,
+	"BodyMassIndex":22.84,
+	"BloodPressure":"70 / 60"
+	}
+],
 "ProfileURL":"https://raw.githubusercontent.com/delgollae/jsonpayload/master/user.png"
 }
 ],
