@@ -247,7 +247,7 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Physicians Ratings",
 			"dcColor" : "#01579B",
-			"dcCount" : 4.4,
+			"dcCount" : 4,
 			"dcSubTitle" : "Average",
 			"dcTitleA" : "This Month",
 			"dcCountA" : 5,
@@ -276,9 +276,9 @@
 			"dcCount" : 15,
 			"dcSubTitle" : "Earnings",
 			"dcTitleA" : "For Today",
-			"dcCountA" : 560,
+			"dcCountA" : 5,
 			"dcTitleB" : "Commissions",
-			"dcCountB" : 80
+			"dcCountB" : 8
 		}
 	],
 "ResultType":0
