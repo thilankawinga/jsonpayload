@@ -76,7 +76,7 @@
 			"dcRefId" : 4,
 			"dcCategory" : 5,
 			"dcStyle" : 1, 
-			"dcTitle" : "Walking Appointments",
+			"dcTitle" : "Walk-In Appointments",
 			"dcColor" : "#01579B",
 			"dcCount" : 12,
 			"dcSubTitle" : "Request For",
@@ -168,7 +168,7 @@
 			"dcRefId" : 4,
 			"dcCategory" : 11,
 			"dcStyle" : 1, 
-			"dcTitle" : "Requested Reports",
+			"dcTitle" : "Requested Lab Reports",
 			"dcColor" : "#33691E",
 			"dcCount" : 15,
 			"dcSubTitle" : "Pending",
@@ -246,7 +246,7 @@
 			"dcRefId" : 4,
 			"dcCategory" : 17,
 			"dcStyle" : 1, 
-			"dcTitle" : "Medications due",
+			"dcTitle" : "Medications Due",
 			"dcColor" : "#01579B",
 			"dcCount" : 8,
 			"dcSubTitle" : "Pending",
@@ -287,12 +287,12 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Revenue",
 			"dcColor" : "#BF360C",
-			"dcCount" : 15,
+			"dcCount" : 80,
 			"dcSubTitle" : "Earnings",
 			"dcTitleA" : "For Today",
-			"dcCountA" : 5,
+			"dcCountA" : 2450,
 			"dcTitleB" : "Commissions",
-			"dcCountB" : 8
+			"dcCountB" : 340
 		}
 	],
 "ResultType":0
