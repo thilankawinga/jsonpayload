@@ -39,10 +39,10 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Critical Lab Reports",
 			"dcColor" : "#B71C1C",
-			"dcCount" : 15,
+			"dcCount" : 18,
 			"dcSubTitle" : "Remaining",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 8,
 			"dcTitleB" : "Yesterday",
 			"dcCountB" : 3
 		},
@@ -52,23 +52,23 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Schedule OR",
 			"dcColor" : "#1B5E20",
-			"dcCount" : 15,
+			"dcCount" : 8,
 			"dcSubTitle" : "Pending",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 5  ,
 			"dcTitleB" : "Yesterday",
 			"dcCountB" : 3
 		},
 		{
-			"dcRefId" : 4,
+			"dcRefId" : 4,5
 			"dcCategory" : 4,
 			"dcStyle" : 1, 
 			"dcTitle" : "Emergency Room",
 			"dcColor" : "#1B5E20",
-			"dcCount" : 15,
+			"dcCount" : 25,
 			"dcSubTitle" : "Pending",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 20,
 			"dcTitleB" : "Yesterday",
 			"dcCountB" : 3
 		},
@@ -78,7 +78,7 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Walking Appointments",
 			"dcColor" : "#01579B",
-			"dcCount" : 15,
+			"dcCount" : 12,
 			"dcSubTitle" : "Request For",
 			"dcTitleA" : "Today",
 			"dcCountA" : 5,
@@ -91,10 +91,10 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Booked Appointments",
 			"dcColor" : "#01579B",
-			"dcCount" : 15,
+			"dcCount" : 9,
 			"dcSubTitle" : "Request For",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 6,
 			"dcTitleB" : "Tomorrow",
 			"dcCountB" : 3
 		},
@@ -104,12 +104,12 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "New Admission",
 			"dcColor" : "#E65100",
-			"dcCount" : 15,
+			"dcCount" : 9,
 			"dcSubTitle" : "Request For",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 7,
 			"dcTitleB" : "Tomorrow",
-			"dcCountB" : 3
+			"dcCountB" : 12
 		},
 		{
 			"dcRefId" : 4,
@@ -130,12 +130,12 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Pending Referrals",
 			"dcColor" : "#424242",
-			"dcCount" : 15,
+			"dcCount" : 14,
 			"dcSubTitle" : "Pending",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 4,
 			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3
+			"dcCountB" : 10
 		},
 		{
 			"dcRefId" : 4,
@@ -161,7 +161,7 @@
 			"dcTitleA" : "Today",
 			"dcCountA" : 5,
 			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3
+			"dcCountB" : 10
 		},
 		{
 			"dcRefId" : 4,
@@ -169,12 +169,12 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Pharmacy Intervention",
 			"dcColor" : "#33691E",
-			"dcCount" : 15,
+			"dcCount" : 25,
 			"dcSubTitle" : "Pending",
 			"dcTitleA" : "Today",
-			"dcCountA" : 5,
+			"dcCountA" : 20,
 			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3
+			"dcCountB" : 5
 		},
 		{
 			"dcRefId" : 4,
@@ -182,7 +182,7 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Patient Questions",
 			"dcColor" : "#B71C1C",
-			"dcCount" : 15,
+			"dcCount" : 12,
 			"dcSubTitle" : "Pending To",
 			"dcTitleA" : "Answer",
 			"dcCountA" : 5,
@@ -195,7 +195,7 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Patient Calls",
 			"dcColor" : "#B71C1C",
-			"dcCount" : 15,
+			"dcCount" : 9,
 			"dcSubTitle" : "Pending Follow-up",
 			"dcTitleA" : "Today",
 			"dcCountA" : 5,
@@ -208,12 +208,12 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Special Care",
 			"dcColor" : "#1B5E20",
-			"dcCount" : 15,
+			"dcCount" : 7,
 			"dcSubTitle" : "Pending",
 			"dcTitleA" : "Today",
 			"dcCountA" : 5,
 			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3
+			"dcCountB" : 2
 		},
 		{
 			"dcRefId" : 4,
@@ -234,12 +234,12 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Medications due",
 			"dcColor" : "#01579B",
-			"dcCount" : 15,
+			"dcCount" : 8,
 			"dcSubTitle" : "Pending",
 			"dcTitleA" : "Follow-up",
-			"dcCountA" : 5,
+			"dcCountA" : 3,
 			"dcTitleB" : "Overdue",
-			"dcCountB" : 3
+			"dcCountB" : 5
 		},
 		{
 			"dcRefId" : 4,
@@ -247,7 +247,7 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Physicians Ratings",
 			"dcColor" : "#01579B",
-			"dcCount" : 15,
+			"dcCount" : 4.4,
 			"dcSubTitle" : "Average",
 			"dcTitleA" : "This Month",
 			"dcCountA" : 5,
@@ -260,24 +260,25 @@
 			"dcStyle" : 1, 
 			"dcTitle" : "Nurse Contacts",
 			"dcColor" : "#BF360C",
-			"dcCount" : 15,
+			"dcCount" : 32,
 			"dcSubTitle" : "Calls",
 			"dcTitleA" : "Received",
-			"dcCountA" : 5,
+			"dcCountA" : 20,
 			"dcTitleB" : "Today's New",
-			"dcCountB" : 3
+			"dcCountB" : 12
 		},
 		{
 			"dcRefId" : 4,
 			"dcCategory" : 20,
 			"dcStyle" : 1, 
+			"dcTitle" : "Revenue",
 			"dcColor" : "#BF360C",
 			"dcCount" : 15,
 			"dcSubTitle" : "Earnings",
 			"dcTitleA" : "For Today",
-			"dcCountA" : 5,
+			"dcCountA" : 560,
 			"dcTitleB" : "Commissions",
-			"dcCountB" : 3
+			"dcCountB" : 80
 		}
 	],
 "ResultType":0
