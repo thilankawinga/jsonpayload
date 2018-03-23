@@ -165,6 +165,19 @@
 		},
 		{
 			"dcRefId" : 4,
+			"dcCategory" : 11,
+			"dcStyle" : 1, 
+			"dcTitle" : "Requested Reports",
+			"dcColor" : "#33691E",
+			"dcCount" : 15,
+			"dcSubTitle" : "Pending",
+			"dcTitleA" : "Today",
+			"dcCountA" : 5,
+			"dcTitleB" : "Yesterday",
+			"dcCountB" : 10
+		},
+		{
+			"dcRefId" : 4,
 			"dcCategory" : 12,
 			"dcStyle" : 1, 
 			"dcTitle" : "Pharmacy Intervention",
