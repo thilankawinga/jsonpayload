@@ -275,10 +275,10 @@
 			"dcTitle" : "Nurse Contacts",
 			"dcColor" : "#BF360C",
 			"dcCount" : 32,
-			"dcSubTitle" : "Calls",
-			"dcTitleA" : "Received",
+			"dcSubTitle" : "Pending Follow-up",
+			"dcTitleA" : "Today",
 			"dcCountA" : 20,
-			"dcTitleB" : "Today's New",
+			"dcTitleB" : "Yesterday",
 			"dcCountB" : 12
 		},
 		{
