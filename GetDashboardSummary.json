@@ -31,7 +31,8 @@
 			"dcTitleA" : "Today",
 			"dcCountA" : 5,
 			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3
+			"dcCountB" : 3,
+			"mapKey" : "cp"
 		},
 		{
 			"dcRefId" : 2,
@@ -44,7 +45,8 @@
 			"dcTitleA" : "Today",
 			"dcCountA" : 8,
 			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3
+			"dcCountB" : 3,
+			"mapKey" : "clr"
 		},
 		{
 			"dcRefId" : 3,
