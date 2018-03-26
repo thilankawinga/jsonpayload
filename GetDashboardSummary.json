@@ -23,7 +23,7 @@
 		{
 			"dcRefId" : 1,
 			"dcCategory" : 1,
-			"dcStyle" : 1, 
+			"dcStyle" : 0, 
 			"dcTitle" : "Critical Patients",
 			"dcColor" : "#B71C1C",
 			"dcCount" : 15,
@@ -37,7 +37,7 @@
 		{
 			"dcRefId" : 2,
 			"dcCategory" : 2,
-			"dcStyle" : 1, 
+			"dcStyle" : 0, 
 			"dcTitle" : "Critical Lab Reports",
 			"dcColor" : "#B71C1C",
 			"dcCount" : 18,
