@@ -1,0 +1,78 @@
+download
+https://www.erlang.org/downloads
+OTP 20.3 Windows 64-bit Binary File (99142192)
+Reference : https://www.youtube.com/watch?v=x9wwZAuub1w
+
+
+
+download
+https://www.rabbitmq.com/download.html
+Windows installer
+
+
+After install both
+run cmd
+
+
+Microsoft Windows [Version 10.0.16299.192]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\delgo>cd C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.4\sbin
+
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.4\sbin>rabitmq-plugins enable rabbitmq_management
+'rabitmq-plugins' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.4\sbin>rabbitmq-plugins enable rabbitmq_management
+Enabling plugins on node rabbit@LAPTOP-044F0BSC:
+rabbitmq_management
+The following plugins have been configured:
+  rabbitmq_management
+  rabbitmq_management_agent
+  rabbitmq_web_dispatch
+Applying plugin configuration to rabbit@LAPTOP-044F0BSC...
+The following plugins have been enabled:
+  rabbitmq_management
+  rabbitmq_management_agent
+  rabbitmq_web_dispatch
+
+set 3 plugins.
+Offline change; changes will take effect at broker restart.
+
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.4\sbin>
+
+
+
+Restart RabbitMQ from windows Services
+
+
+
+Default Username and Password
+http://localhost:15672/#/
+Username : guest
+Password : guest
+
+
+
+
+http://port1433.com/2017/07/21/messaging-queuing-for-the-dba-sending-data-out-into-the-world/
+
+
+
+
+
+netsh http add urlacl url=http://+:8080/ user=%USERDOMAIN%\%USERNAME%
+
+
+
+
+
+
+https://github.com/rabbitmq/rabbitmq-dotnet-client
+
+
+
+
+https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency   ***
+
+
