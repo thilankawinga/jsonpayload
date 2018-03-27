@@ -1,0 +1,16 @@
+API Category Definitions
+
+Appointment Categories
+
+
+Patient Appintment  = 1
+Off Time 			= 2
+Leave Date			= 3
+
+
+Dashboard Card Design Categories
+Category 1  : Inpatient list card component
+Category 2  :
+Category 3  : Appointment card like
+Category 4  : Outpatient card
+Category 5  : 
