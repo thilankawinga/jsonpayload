@@ -73,8 +73,8 @@
 "Chronic":"Diabetes,Asthma",
 "Allergies":"Penicilin, Bee Stings",	
 "Infections":"bacterial",
-"CriticalLabReport": 1,
-"MedicationDue": 1,
+"CriticalLabReport": 0,
+"MedicationDue": 0,
 "List_MyLastVitalSign":[
 	{
 	"WeightKg":66,
@@ -125,7 +125,7 @@
 "Allergies":"Penicilin, Bee Stings",	
 "Infections":"bacterial",
 "CriticalLabReport": 0,
-"MedicationDue": 1,
+"MedicationDue": 0,
 "List_MyLastVitalSign":[
 	{
 	"WeightKg":66,
@@ -175,7 +175,7 @@
 "Chronic":"Diabetes,Asthma",
 "Allergies":"",	
 "Infections":"bacterial",
-"CriticalLabReport": 1,
+"CriticalLabReport": 0,
 "MedicationDue": 0,
 "List_MyLastVitalSign":[
 	{
