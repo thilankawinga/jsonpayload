@@ -92,7 +92,7 @@
 "MemberNameN":null,
 "PreferredLang":"E",
 "PIN":"481498109",
-"SaltHash":"(H4=??>?????[??%+",
+"SaltHash":"",
 "ReferenceID":1485,
 "EmployeeID":1485,
 "RoleID":23,
@@ -105,7 +105,7 @@
 "MemberNameN":null,
 "PreferredLang":"E",
 "PIN":"481498109",
-"SaltHash":"(H4=??>?????[??%+",
+"SaltHash":"",
 "ReferenceID":1485,
 "EmployeeID":1485,
 "RoleID":100148,
@@ -118,4 +118,3 @@
 "isActiveCode":false,
 "isSMSSent":false
 }
-Author: Olivier Cuenot
