@@ -78,20 +78,6 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 5,
-			"dcStyle" : 1, 
-			"dcTitle" : "Walk-In Appointments",
-			"dcColor" : "#01579B",
-			"dcCount" : 12,
-			"dcSubTitle" : "Request For",
-			"dcTitleA" : "Today",
-			"dcCountA" : 5,
-			"dcTitleB" : "Tomorrow",
-			"dcCountB" : 3,
-			"mapKey" : "wia"
-		},
-		{
-			"dcRefId" : 4,
 			"dcCategory" : 6,
 			"dcStyle" : 1, 
 			"dcTitle" : "Booked Appointments",
@@ -117,20 +103,6 @@
 			"dcTitleB" : "Tomorrow",
 			"dcCountB" : 12,
 			"mapKey" : "nad"
-		},
-		{
-			"dcRefId" : 4,
-			"dcCategory" : 8,
-			"dcStyle" : 1, 
-			"dcTitle" : "Admitted Patient",
-			"dcColor" : "#E65100",
-			"dcCount" : 15,
-			"dcSubTitle" : "Pending",
-			"dcTitleA" : "Today",
-			"dcCountA" : 5,
-			"dcTitleB" : "Critical",
-			"dcCountB" : 3,
-			"mapKey" : "apa"
 		},
 		{
 			"dcRefId" : 4,
@@ -219,48 +191,6 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 14,
-			"dcStyle" : 1, 
-			"dcTitle" : "Patient Calls",
-			"dcColor" : "#1B5E20",
-			"dcCount" : 9,
-			"dcSubTitle" : "Pending Follow-up",
-			"dcTitleA" : "Today",
-			"dcCountA" : 5,
-			"dcTitleB" : "Yesterday",
-			"dcCountB" : 3,
-			"mapKey" : "pca"
-		},
-		{
-			"dcRefId" : 4,
-			"dcCategory" : 15,
-			"dcStyle" : 1, 
-			"dcTitle" : "Special Care",
-			"dcColor" : "#1B5E20",
-			"dcCount" : 7,
-			"dcSubTitle" : "Pending",
-			"dcTitleA" : "Today",
-			"dcCountA" : 5,
-			"dcTitleB" : "Yesterday",
-			"dcCountB" : 2,
-			"mapKey" : "spc"
-		},
-		{
-			"dcRefId" : 4,
-			"dcCategory" : 16,
-			"dcStyle" : 1, 
-			"dcTitle" : "Patients Feedback",
-			"dcColor" : "#1B5E20",
-			"dcCount" : 15,
-			"dcSubTitle" : "Pending To",
-			"dcTitleA" : "Answer",
-			"dcCountA" : 5,
-			"dcTitleB" : "Verify",
-			"dcCountB" : 3,
-			"mapKey" : "pfe"
-		},
-		{
-			"dcRefId" : 4,
 			"dcCategory" : 17,
 			"dcStyle" : 1, 
 			"dcTitle" : "Medications Due",
@@ -286,20 +216,6 @@
 			"dcTitleB" : "Last Month",
 			"dcCountB" : 3,
 			"mapKey" : "pra"
-		},
-		{
-			"dcRefId" : 4,
-			"dcCategory" : 19,
-			"dcStyle" : 1, 
-			"dcTitle" : "Nurse Contacts",
-			"dcColor" : "#BF360C",
-			"dcCount" : 32,
-			"dcSubTitle" : "Pending Follow-up",
-			"dcTitleA" : "Today",
-			"dcCountA" : 20,
-			"dcTitleB" : "Yesterday",
-			"dcCountB" : 12,
-			"mapKey" : "nco"
 		},
 		{
 			"dcRefId" : 4,
