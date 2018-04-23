@@ -1,0 +1,18 @@
+not confirm API dev progress
+not confirm the contents which we need to include for each list
+ios configuration
+
+Patient id - bold
+Alerts 
+remove last examine :  
+
+show due visit
+medication due
+lab result new , due
+last vitals
+
+
+find the gaps in BRD
+
+
+LDR,
