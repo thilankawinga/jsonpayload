@@ -1,0 +1,43 @@
+/*
+
+		{
+			"dcRefId" : 4,
+			"dcCategory" : 12,
+			"dcStyle" : 1, 
+			"dcTitle" : "Pharmacy Intervention",
+			"dcColor" : "#B71C1C",
+			"dcCount" : 25,
+			"dcSubTitle" : "Pending",
+			"dcTitleA" : "Today",
+			"dcCountA" : 20,
+			"dcTitleB" : "Yesterday",
+			"dcCountB" : 5,
+			"mapKey" : "pit"
+		},{
+			"dcRefId" : 4,
+			"dcCategory" : 17,
+			"dcStyle" : 1, 
+			"dcTitle" : "Medications Due",
+			"dcColor" : "#01579B",
+			"dcCount" : 8,
+			"dcSubTitle" : "Pending",
+			"dcTitleA" : "Follow-up",
+			"dcCountA" : 3,
+			"dcTitleB" : "Overdue",
+			"dcCountB" : 5,
+			"mapKey" : "mdu"
+		},
+		{
+			"dcRefId" : 4,
+			"dcCategory" : 18,
+			"dcStyle" : 1, 
+			"dcTitle" : "Physicians Ratings",
+			"dcColor" : "#01579B",
+			"dcCount" : 4,
+			"dcSubTitle" : "Average",
+			"dcTitleA" : "This Month",
+			"dcCountA" : 5,
+			"dcTitleB" : "Last Month",
+			"dcCountB" : 3,
+			"mapKey" : "pra"
+		},*/
