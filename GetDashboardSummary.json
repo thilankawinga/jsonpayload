@@ -120,6 +120,20 @@
 		},
 		{
 			"dcRefId" : 4,
+			"dcCategory" : 5,
+			"dcStyle" : 1, 
+			"dcTitle" : "Discharged Patients",
+			"dcColor" : "#1B5E20",
+			"dcCount" : 0,
+			"dcSubTitle" : "For",
+			"dcTitleA" : "Today",
+			"dcCountA" : 0,
+			"dcTitleB" : "Yesterday",
+			"dcCountB" : 0,
+			"mapKey" : "dis"
+		},
+		{
+			"dcRefId" : 4,
 			"dcCategory" : 11,
 			"dcStyle" : 1, 
 			"dcTitle" : "Patients Lab Reports",
