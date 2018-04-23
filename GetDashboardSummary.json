@@ -78,7 +78,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 6,
+			"dcCategory" : 5,
 			"dcStyle" : 1, 
 			"dcTitle" : "Booked Appointments",
 			"dcColor" : "#01579B",
@@ -92,7 +92,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 7,
+			"dcCategory" : 6,
 			"dcStyle" : 1, 
 			"dcTitle" : "New Admission",
 			"dcColor" : "#E65100",
@@ -106,7 +106,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 9,
+			"dcCategory" : 7,
 			"dcStyle" : 1, 
 			"dcTitle" : "Referrals",
 			"dcColor" : "#424242",
@@ -120,7 +120,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 5,
+			"dcCategory" : 8,
 			"dcStyle" : 1, 
 			"dcTitle" : "Discharged Patients",
 			"dcColor" : "#1B5E20",
@@ -134,7 +134,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 11,
+			"dcCategory" : 9,
 			"dcStyle" : 1, 
 			"dcTitle" : "Patients Lab Reports",
 			"dcColor" : "#33691E",
@@ -148,7 +148,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 11,
+			"dcCategory" : 10,
 			"dcStyle" : 1, 
 			"dcTitle" : "Requested Lab Reports",
 			"dcColor" : "#33691E",
@@ -162,7 +162,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 13,
+			"dcCategory" : 11,
 			"dcStyle" : 1, 
 			"dcTitle" : "Patient Questions",
 			"dcColor" : "#B71C1C",
@@ -176,7 +176,7 @@
 		},
 		{
 			"dcRefId" : 4,
-			"dcCategory" : 20,
+			"dcCategory" : 12,
 			"dcStyle" : 1, 
 			"dcTitle" : "Revenue",
 			"dcColor" : "#BF360C",
