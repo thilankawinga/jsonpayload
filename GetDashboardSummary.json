@@ -189,7 +189,7 @@
 			"dcCountB" : 3,
 			"mapKey" : "pqu"
 		},
-		{
+		/*{
 			"dcRefId" : 4,
 			"dcCategory" : 17,
 			"dcStyle" : 1, 
@@ -216,7 +216,7 @@
 			"dcTitleB" : "Last Month",
 			"dcCountB" : 3,
 			"mapKey" : "pra"
-		},
+		},*/
 		{
 			"dcRefId" : 4,
 			"dcCategory" : 20,
