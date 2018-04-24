@@ -49,7 +49,7 @@
 			"dcTitleB" : "Yesterday",
 			"dcCountB" : 3,
 			"mapKey" : "clr",
-			"dcImageType": "material-community-icons",
+			"dcImageType": "font-awesome",
 			"dcImageName": "notebook"
 		},
 		{
