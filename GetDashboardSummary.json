@@ -49,8 +49,8 @@
 			"dcTitleB" : "Yesterday",
 			"dcCountB" : 3,
 			"mapKey" : "clr",
-			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageType": "material-community-icons",
+			"dcImageName": "notebook"
 		},
 		{
 			"dcRefId" : 3,
