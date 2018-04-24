@@ -50,7 +50,7 @@
 			"dcCountB" : 3,
 			"mapKey" : "clr",
 			"dcImageType": "font-awesome",
-			"dcImageName": "notebook"
+			"dcImageName": "file-text-o"
 		},
 		{
 			"dcRefId" : 3,
@@ -66,7 +66,7 @@
 			"dcCountB" : 3,
 			"mapKey" : "sor",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "user-md"
 		},
 		{
 			"dcRefId" : 4,
@@ -82,7 +82,7 @@
 			"dcCountB" : 3,
 			"mapKey" : "er",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "medkit"
 		},
 		{
 			"dcRefId" : 4,
@@ -98,7 +98,7 @@
 			"dcCountB" : 3,
 			"mapKey" : "bap",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "calendar-o"
 		},
 		{
 			"dcRefId" : 4,
@@ -114,7 +114,7 @@
 			"dcCountB" : 12,
 			"mapKey" : "nad",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "calendar-plus-o"
 		},
 		{
 			"dcRefId" : 4,
@@ -130,7 +130,7 @@
 			"dcCountB" : 10,
 			"mapKey" : "pre",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "gg-circle"
 		},
 		{
 			"dcRefId" : 4,
@@ -146,7 +146,7 @@
 			"dcCountB" : 0,
 			"mapKey" : "dis",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "address-book-o"
 		},
 		{
 			"dcRefId" : 4,
@@ -162,7 +162,7 @@
 			"dcCountB" : 10,
 			"mapKey" : "plr",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "wpforms"
 		},
 		{
 			"dcRefId" : 4,
@@ -178,7 +178,7 @@
 			"dcCountB" : 10,
 			"mapKey" : "rlr",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "file-zip-o"
 		},
 		{
 			"dcRefId" : 4,
@@ -194,7 +194,7 @@
 			"dcCountB" : 3,
 			"mapKey" : "pqu",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "indent"
 		},
 		{
 			"dcRefId" : 4,
@@ -210,7 +210,7 @@
 			"dcCountB" : 340,
 			"mapKey" : "rev",
 			"dcImageType": "font-awesome",
-			"dcImageName": "bed"
+			"dcImageName": "google-wallet"
 		}
 	],
 "ResultType":0
