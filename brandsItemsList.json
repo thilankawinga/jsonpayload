@@ -1,0 +1,48 @@
+[
+	{
+		"brandId" : 1,
+		"sellingPrice" : 100.99, 
+		"brandName" : "PARACETAMOL 500 MG TABLET", 
+		"activeIngredent" : "Lignocaine",
+		"statusID" :  1
+	},
+	{
+		"brandId" : 1,
+		"sellingPrice" : 120.56, 
+		"brandName" : "PARACETAMOL SYRUP (ALCOHOL FREE) 120 MG/5 ML 60-80 ML BOTTLE", 
+		"activeIngredent" : "Prilocaine Hcl Felypressin",
+		"statusID" :  1
+	},
+	{
+		"brandId" : 1,
+		"sellingPrice" : 450.43, 
+		"brandName" : "PARACETAMOL 100 - 150 MG SUPPOSITORY", 
+		"activeIngredent" : "Simethicone chewable",
+		"statusID" :  2
+	},
+	{
+		"brandId" : 1,
+		"sellingPrice" : 450.43, 
+		"brandName" : "LIGNOCAINE SPRAY AEROSOL ABOUT 80 GM /DOSE DELIVERS 10 MG", 
+		"activeIngredent" : "Ranitidine Hcl",
+		"statusID" :  1
+	},
+	{
+		"brandId" : 1,
+		"sellingPrice" : 450.43, 
+		"brandName" : "ANTACID ORAL SUSPENSION NOT LESS THAN 80 ML BOTTLE", 
+		"activeIngredent" : "AluminiumHydroxide Mg hydroxide",
+		"statusID" :  3
+	},
+	{
+		"brandId" : 1,
+		"sellingPrice" : 450.43, 
+		"brandName" : "OMEPRAZOLE 20 MG TABLET OR CAPSULE", 
+		"activeIngredent" : "Omeprazole",
+		"statusID" :  1
+	}
+]
+
+
+	
+	
