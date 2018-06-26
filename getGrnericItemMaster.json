@@ -1,0 +1,203 @@
+	{
+		"itemCode": "I00001",
+		"activeInGredientId": 1,
+		"categoryId": 1,
+		"pharmacologicalGroupId": 1,
+		"pharmacologicalSubGroupId": 1,
+		"itemBrandId":[
+			1,2,3,4
+		],
+		"prescriptionClassificationId":1,
+		"isPrescriptionAllowed": true,
+		"accessLevelID": 1,
+		"statusID": 1,
+		"isNarcotic": true,
+		"isAntibotic": true,
+		"isImported": true,
+		"isRegistered": true,
+		"isLabRequired": true,
+		"isHighAlert": true,
+		"isIVMedication": true,
+		"isWitnessed": true,
+		"isFormulary": true,
+		"isChemoDrug": true,
+		"accessLevelID": 0,
+		"gracePeriodID": 1,
+		"isNeddWitness": true,
+		"isFluid": true,
+		"therapeuticSubstitutionID":[
+			4,5,6,7
+		],
+		"ivMedicationDetails":[
+			{
+				"ivCategoryId" : 1,
+				"diluentTypeId": 1,
+				"lineId": 1,
+				"volume": 12.00,
+				"volumeUnitId": 1,
+				"durationHours": 10,
+				"stability": 120.50,
+				"stabilityUnitId" : 1,
+				"standardConcentration" :150.50,
+				"standardConcentrationUnitId": 1,
+				"maxConcentration": 500.00,
+				"maxConcentrationUnitId": 1,
+				"comments": "hh"
+			},
+			{
+				"ivCategoryId" : 2,
+				"diluentTypeId": 1,
+				"lineId": 1,
+				"volume": 12.00,
+				"volumeUnitId": 1,
+				"durationHours": 10,
+				"stability": 120.50,
+				"stabilityUnitId" : 1,
+				"standardConcentration" :150.50,
+				"standardConcentrationUnitId": 1,
+				"maxConcentration": 500.00,
+				"maxConcentrationUnitId": 1,
+				"comments": "ee"
+			}
+		],
+		"genericItemDoseUnitDetails":[
+			{
+				"doseID":1,
+				"doseValue":"MG",
+				"patientTypeId":1,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"doseID":2,
+				"doseValue":"MCG",
+				"patientTypeId":1,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"doseID":3,
+				"doseValue":"DROP",
+				"patientTypeId":2,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"doseID":4,
+				"doseValue":"UNITS",
+				"patientTypeId":2,
+				"isActive":true,
+				"idDefault":true
+			}
+		],
+		"genericItemRouteDetails":[
+			{
+				"routeID":1,
+				"routeValue":"Oral",
+				"patientTypeId":1,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"routeID":2,
+				"routeValue":"Infusion",
+				"patientTypeId":1,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"routeID":3,
+				"routeValue":"Enteral",
+				"patientTypeId":2,
+				"isActive":true,
+				"idDefault":true
+			}
+		],
+		"genericItemFrequencyDetails":[
+			{
+				"frequencyID":1,
+				"frequencyValue":"TID",
+				"patientTypeId":1,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"frequencyID":2,
+				"frequencyValue":"BID",
+				"patientTypeId":1,
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"frequencyID":3,
+				"frequencyValue":"STAT",
+				"patientTypeId":2,
+				"isActive":true,
+				"idDefault":true
+			}
+		],
+		"genericItemCode":[
+			{
+				"itemCodeCategoryId" :  1,
+				"itemCode": "00001",
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"itemCodeCategoryId" :  1,
+				"itemCode": "00002",
+				"isActive":true,
+				"idDefault":true
+			},
+			{
+				"itemCodeCategoryId" :  1,
+				"itemCode": "00003",
+				"isActive":true,
+				"idDefault":true
+			}
+		],
+		"itemsLabTestDetails":[
+			{
+				"labId" :  1,
+				"isActive":true,
+				"idDefault":true
+
+			},
+			{
+				"labId" :  2,
+				"isActive":true,
+				"idDefault":true
+
+			}		],
+		"itemsUserRolesDetails":[
+			{
+				"roleId" :  1,
+				"isActive":true,
+				"idDefault":true
+
+			},
+			{
+				"roleId" :  2,
+				"isActive":true,
+				"idDefault":true
+
+			},
+			{
+				"roleId" :  3,
+				"isActive":true,
+				"idDefault":true
+
+			}
+		],
+		"genricItemMasterTranslate":
+		[
+			{
+				"cultureCode": "en-US",
+				"genericName":"Generic 1"
+			},
+			{
+				"cultureCode": "ar-SA",
+				"genericName":"Generic Ar 1"
+			}
+		]
+	}
