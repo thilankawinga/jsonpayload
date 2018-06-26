@@ -2,7 +2,16 @@
 	{
 		"genericItemId" : 1,
 		"genericItemCode" : "I00001", 
-		"genericName" : "PARACETAMOL 500 MG TABLET", 
+		"genericNames":[
+			{
+				"clutureCode": "en_Eng",
+				"genericName" : "PARACETAMOL 500 MG TABLET"
+			},
+			{
+				"clutureCode": "en_Arb",
+				"genericName" : "PARACETAMOL 500 MG TABLET Arabic"
+			}
+		],
 		"activeIngredent" : "Lignocaine",
 		"statusID" :  1,
 		"statusDes" : "Active"
@@ -10,7 +19,16 @@
 	{
 		"genericItemId" : 1,
 		"genericItemCode" : "I00002", 
-		"genericName" : "PARACETAMOL SYRUP (ALCOHOL FREE) 120 MG/5 ML 60-80 ML BOTTLE", 
+		"genericNames":[
+			{
+				"clutureCode": "en_Eng",
+				"genericName" : "PARACETAMOL SYRUP (ALCOHOL FREE) 120 MG/5 ML 60-80 ML BOTTLE", 
+			},
+			{
+				"clutureCode": "en_Arb",
+				"genericName" : "PARACETAMOL 500 MG TABLET Arabic"
+			}
+		],
 		"activeIngredent" : "Prilocaine Hcl Felypressin",
 		"statusID" :  1,
 		"statusDes" : "Active"
@@ -18,7 +36,16 @@
 	{
 		"genericItemId" : 1,
 		"genericItemCode" : "I00003", 
-		"genericName" : "PARACETAMOL 100 - 150 MG SUPPOSITORY", 
+		"genericNames":[
+			{
+				"clutureCode": "en_Eng",
+				"genericName" : "PARACETAMOL 100 - 150 MG SUPPOSITORY", 
+			},
+			{
+				"clutureCode": "en_Arb",
+				"genericName" : "PARACETAMOL 100 - 150 MG SUPPOSITORY Arabic"
+			}
+		], 
 		"activeIngredent" : "Simethicone chewable",
 		"statusID" :  2,
 		"statusDes" : "Hold"
@@ -26,7 +53,16 @@
 	{
 		"genericItemId" : 1,
 		"genericItemCode" : "I00003", 
-		"genericName" : "LIGNOCAINE SPRAY AEROSOL ABOUT 80 GM /DOSE DELIVERS 10 MG", 
+		"genericNames":[
+			{
+				"clutureCode": "en_Eng",
+				"genericName" : "LIGNOCAINE SPRAY AEROSOL ABOUT 80 GM /DOSE DELIVERS 10 MG", 
+			},
+			{
+				"clutureCode": "en_Arb",
+				"genericName" : "LIGNOCAINE SPRAY AEROSOL ABOUT 80 GM /DOSE DELIVERS 10 MG Arabic"
+			}
+		],
 		"activeIngredent" : "Ranitidine Hcl",
 		"statusID" :  2,
 		"statusDes" : "Hold"
@@ -34,7 +70,16 @@
 	{
 		"genericItemId" : 1,
 		"genericItemCode" : "I00003", 
-		"genericName" : "ANTACID ORAL SUSPENSION NOT LESS THAN 80 ML BOTTLE", 
+		"genericNames":[
+			{
+				"clutureCode": "en_Eng",
+				"genericName" : "ANTACID ORAL SUSPENSION NOT LESS THAN 80 ML BOTTLE", 
+			},
+			{
+				"clutureCode": "en_Arb",
+				"genericName" : "ANTACID ORAL SUSPENSION NOT LESS THAN 80 ML BOTTLE Arabic"
+			}
+		],
 		"activeIngredent" : "AluminiumHydroxide Mg hydroxide",
 		"statusID" :  3,
 		"statusDes" : "Cancelled"
@@ -42,7 +87,16 @@
 	{
 		"genericItemId" : 1,
 		"genericItemCode" : "I00003", 
-		"genericName" : "OMEPRAZOLE 20 MG TABLET OR CAPSULE", 
+		"genericNames":[
+			{
+				"clutureCode": "en_Eng",
+				"genericName" : "OMEPRAZOLE 20 MG TABLET OR CAPSULE", 
+			},
+			{
+				"clutureCode": "en_Arb",
+				"genericName" : "OMEPRAZOLE 20 MG TABLET OR CAPSULE Arabic"
+			}
+		],
 		"activeIngredent" : "Omeprazole",
 		"statusID" :  1,
 		"statusDes" : "Active"
