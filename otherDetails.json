@@ -1,0 +1,22 @@
+[
+   {
+       "paramID": 1,
+       "paramDes": "Needs Witnes",
+	   "isActive": true
+   },
+   {
+       "paramID": 2,
+       "paramDes": "Needs Approval",
+	   "isActive": true
+   },
+   {
+       "paramID": 3,
+       "paramDes": "Allow Early Preperation",
+	   "isActive": true
+   },
+   {
+       "paramID": 4,
+       "paramDes": "Lab Required",
+	   "isActive": true
+   }
+]
