@@ -1,0 +1,27 @@
+[
+   {
+       "paramID": 1,
+       "paramDes": "Narcotic",
+	   "isActive": true
+   },
+   {
+       "paramID": 2,
+       "paramDes": "Formulary",
+	   "isActive": true
+   },
+   {
+       "paramID": 3,
+       "paramDes": "Antibiotic",
+	   "isActive": true
+   },
+   {
+       "paramID": 4,
+       "paramDes": "Imported",
+	   "isActive": true
+   },
+   {
+       "paramID": 5,
+       "paramDes": "Registered",
+	   "isActive": true
+   }
+]
