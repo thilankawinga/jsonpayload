@@ -1,6 +1,4 @@
 {
-  "prescriptionMedications": [
-    {
       "genericItemId": 10000,
       "genericName": "PARACETAMOL 500 MG TABLET",
 	  "activeIngredientId": 20,
@@ -336,5 +334,4 @@
 	  "noOfRefillLabel": 1,
 	  "isSingleTimeDispense": 1
     }
-  ]
 }
